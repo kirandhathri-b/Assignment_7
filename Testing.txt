@@ -1,0 +1,20 @@
+Test1:
+
+I observerd sometime instead of saying Living room he would say Hall room / TV room so added synonyms for the room wherever possible.
+
+Sometime he would say clean my room instead of saying his bedroom so, I created asynonym for bedroom.
+
+Test2:
+
+Sometimes My roommate ilike to play with the suction level of the Vacuum. The maximum Suction which I defined is 5. My friend would ask it to set the level to 6. So i included a secondary response if the input goes out of bounds to inform the user.
+
+Did the same thing for Scheduling. If he wants to schedule it for yesterday. Its not possible.
+
+Test 3:
+
+In the final test after overcoming all the above shortcoming. I have noticed a few more.
+
+I was not able to retrive information on future schedules if the user asked.I tries to create a new entity and using the concept of contexts to fetch the information on schedules which are already created but couldn't. I will try it in future asignments if possible.
+
+Similiary I was not able to get the current Suction level info.
+
